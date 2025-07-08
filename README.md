@@ -1,1 +1,1 @@
-# Graphs- basic graphs using Math + Python
+Basic graphs using Python + Math
